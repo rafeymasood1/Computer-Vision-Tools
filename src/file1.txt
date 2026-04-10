@@ -1,0 +1,7 @@
+hey what's up
+today, I will tell you something. 
+also btw this autocompletion suggestion can be annoying. 
+So I think I will remove this autocompletion suggestion because of this exact reason. 
+in code it's quite valuable because your terms should match identically.
+I think I should do it with time.
+or maybe just disable autocompletion for lsp 
